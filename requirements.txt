@@ -1,5 +1,4 @@
 voila
-voila-material
 pandas==1.0.3
 numpy==1.18.1
 seaborn==0.10.0
